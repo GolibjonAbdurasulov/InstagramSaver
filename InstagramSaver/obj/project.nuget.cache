@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "PalKeDZySRA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Developr\\Desktop\\InstagramSaver\\InstagramSaver\\InstagramSaver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\telegram.bot\\22.4.4\\telegram.bot.22.4.4.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\xabe.ffmpeg\\6.0.1\\xabe.ffmpeg.6.0.1.nupkg.sha512",
+    "C:\\Users\\Developr\\.nuget\\packages\\youtubedlsharp\\1.1.1\\youtubedlsharp.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
